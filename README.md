@@ -1,8 +1,6 @@
 # 👋 Hola, soy Nick
 
-## 💻 **Desarrollador Multiplataforma en Formación**
-
-### Estudiante de **Desarrollo de Aplicaciones Multiplataforma** | Futuro Desarrollador Full-Stack
+## 💻 **Desarrollador Full-Stack**
 
 ---
 
@@ -10,7 +8,7 @@
 
 ### **Ciclo Superior en Desarrollo de Aplicaciones Multiplataforma**
 
-**Tecnologías que estoy dominando:**
+**Tecnología aplicada:**
 - **Frontend:** Thymeleaf, HTML5, CSS3
 - **Backend:** Spring Boot, .NET Framework, Java
 - **Bases de Datos:** SQL Server, MySQL, MongoDB
@@ -49,9 +47,7 @@
 ## 🎯 **Objetivos Profesionales**
 
 1. **Obtener certificaciones**
-2. **Realizar prácticas en empresa** del sector Tecnológico
-3. **Buscar posición como Desarrollador Junior** en empresa tecnológica
-4. **Contribuir a proyectos open-source** de interés
+2. **Contribuir a proyectos open-source** de interés
 
 ---
 
