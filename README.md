@@ -55,8 +55,8 @@
 
 <div align="left">
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=The-Nick-Dev&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-ecru-five-69.vercel.app/api?username=The-Nick-Dev&show_icons=true&theme=dark)
 <br>
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=The-Nick-Dev&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats-ecru-five-69.vercel.app/api/top-langs/?username=The-Nick-Dev&layout=compact&theme=dark)
 
 </div>
