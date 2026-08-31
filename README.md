@@ -1,22 +1,22 @@
-# 👋 Hola, soy Nick
+# 👋 Hi, I'm Nick
 
-## 💻 **Desarrollador Full-Stack**
+## 💻 **Full-Stack Developer**
 
 ---
 
-## 🎓 **Formación Actual**
+## 🎓 **Current Education**
 
-### **Ciclo Superior en Desarrollo de Aplicaciones Multiplataforma**
+### **Advanced Degree in Multiplatform Application Development**
 
-**Tecnología aplicada:**
+**Tech Stack Applied:**
 - **Frontend:** Thymeleaf, HTML5, CSS3
 - **Backend:** Spring Boot, .NET Framework, Java
-- **Bases de Datos:** SQL Server, MySQL, MongoDB
-- **Herramientas:** Git, Docker
+- **Databases:** SQL Server, MySQL, MongoDB
+- **Tools:** Git, Docker
 
 ---
 
-## 🛠️ **Stack Tecnológico Principal**
+## 🛠️ **Main Tech Stack**
 
 <div align="left">
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -35,23 +35,23 @@
 
 ---
 
-## 🚀 **Proyectos Académicos y Profesionales**
+## 🚀 **Academic & Professional Projects**
 
-- **[Sistema de Gestión de Autoescuelas]:** Aplicación web y móvil para gestión de alumnos, profesores y tests (Spring Boot + Gradle + MySQL)
-- **[Extensión para Real Virtuality Engine]:** Librería DLL para descarga de imágenes y sincronización entre clientes para el motor del videojuego Arma 3 (C# + SQF)
-- **[Visor de variables en C++]:** Aplicación para manipulación de variables en Arma 3 compatible con set-ups DMA (ImGui + C++)
-- **[Gestión de datos meteorológicos]:** Control, gestión y manejo de datos en remoto de múltiples estaciones meteorológicas (Weewx + Ecowitt Protocol + Net Sniffer)
-
----
-
-## 🎯 **Objetivos Profesionales**
-
-1. **Obtener certificaciones**
-2. **Contribuir a proyectos open-source** de interés
+- **[Driving School Management System]:** Web and mobile application for managing students, teachers, and tests (Spring Boot + Gradle + MySQL)
+- **[Real Virtuality Engine Extension]:** DLL library for image downloading and client synchronization for the Arma 3 game engine (C# + SQF)
+- **[C++ Variable Viewer]:** Application for variable manipulation in Arma 3, compatible with DMA setups (ImGui + C++)
+- **[Weather Data Management]:** Remote control, management, and handling of data from multiple weather stations (Weewx + Ecowitt Protocol + Net Sniffer)
 
 ---
 
-## 📊 **Estadísticas de GitHub**
+## 🎯 **Professional Goals**
+
+1. **Earn relevant certifications**
+2. **Contribute to interesting open-source projects**
+
+---
+
+## 📊 **GitHub Stats**
 
 <div align="left">
 
