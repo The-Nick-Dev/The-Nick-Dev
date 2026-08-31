@@ -55,8 +55,8 @@
 
 <div align="left">
 
-![GitHub Stats](https://github-readme-stats-ecru-five-69.vercel.app/api?username=The-Nick-Dev&show_icons=true&theme=dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=The-Nick-Dev&rank_icon=percentile&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=The-Nick-Dev&rank_icon=percentile&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=transparent)
 <br>
-![GitHub Stats](https://github-readme-stats-ecru-five-69.vercel.app/api/top-langs/?username=The-Nick-Dev&layout=compact&theme=dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=The-Nick-Dev&langs_count=3&hide_values=true&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=The-Nick-Dev&langs_count=3&hide_values=true&theme=transparent)
 
 </div>
